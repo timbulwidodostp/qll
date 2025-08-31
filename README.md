@@ -1,6 +1,8 @@
 # qll
 Perform Elliott-Müller efficient test for general persistent time variation in regression coefficients Use qll With STATA 19
 
+https://www.youtube.com/watch?v=V39GEEBHOmQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
